@@ -616,7 +616,7 @@ a:visited {
 }
 .divider-wrapper .title-divider .top-title:before, .divider-wrapper .title-divider .top-title:after {
   content: "";
-  background-color: #2cb9ee;
+  background-color: #3fff0b;;
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
   -ms-border-radius: 100%;
@@ -1199,7 +1199,7 @@ input[type=submit]:focus {
 }
 
 .primary-bg {
-  background-color: #3fff0b;
+  background-color: #2cb9ee;
 }
 
 .secondary-bg {
@@ -2981,7 +2981,7 @@ input[type=submit]:focus {
   align-items: center;
   height: 65px;
   width: 45%;
-  border-left: 2px solid #ffffff2e;
+  /* border-left: 2px solid #ffffff2e; */
 }
 .service-section .types-of-duty {
   margin-left: 55px;
@@ -3020,7 +3020,7 @@ input[type=submit]:focus {
   text-align: center;
 }
 .service-section .types-of-duty .service-type .service-icon .icon {
-  color: #2cb9ee;
+  color: #3fff0b;
   font-size: 60px;
 }
 .service-section .types-of-duty .service-type .service-title {
